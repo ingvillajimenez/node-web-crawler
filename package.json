@@ -1,0 +1,23 @@
+{
+  "name": "node-web-crawler",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvillajimenez/node-web-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingvillajimenez/node-web-crawler/issues"
+  },
+  "homepage": "https://github.com/ingvillajimenez/node-web-crawler#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
